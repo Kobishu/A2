@@ -65,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601452604005</updated>
       <workItem from="1601452605710" duration="473000" />
+      <workItem from="1601453108031" duration="426000" />
     </task>
     <servers />
   </component>
@@ -93,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="258" y="298" key="FileChooserDialogImpl" timestamp="1601452934851">
