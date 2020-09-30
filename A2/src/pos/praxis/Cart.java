@@ -17,6 +17,7 @@ public class Cart {
         for (Product product : cart) {
             System.out.println(product.toString());
             System.out.println("Test für Git");
+            System.out.println("Zweiter test auf Feature Branch");
         }
     }
 
