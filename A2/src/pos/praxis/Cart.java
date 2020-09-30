@@ -17,6 +17,7 @@ public class Cart {
         for (Product product : cart) {
             System.out.println(product.toString());
             System.out.println("Master test für Conflict");
+            System.out.println("Zweiter Test Master");
         }
     }
 
